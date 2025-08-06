@@ -11,8 +11,8 @@ Los entornos en los cuales trabajé son: HTML, CSS y Java Script
                    Este se ejecuta luego de dar click en "Sortear amigo"
 
 # Funcionalidades
-Esta aplicación, no permite tener vacío el campo donde se ingresan los nombres, y al dar click en "Añadir, arrojará un mensaje de alerta.
-No permite ingresar nombres duplicados, si ingresas por error un nombre ya antes ingresado, arrojará un mensaje de alerta
-Luego de dar click en "Sortear amigo", los nombres ingresados desaparecerán mostrándo solo el nombre sorteado.
+* Esta aplicación, no permite tener vacío el campo donde se ingresan los nombres, y al dar click en "Añadir, arrojará un mensaje de alerta.
+* No permite ingresar nombres duplicados, si ingresas por error un nombre ya antes ingresado, arrojará un mensaje de alerta
+* Luego de dar click en "Sortear amigo", los nombres ingresados desaparecerán mostrándo solo el nombre sorteado.
 
 <img width="886" height="599" alt="image" src="https://github.com/user-attachments/assets/15209522-99bb-4235-9665-5baf7731441c" />
